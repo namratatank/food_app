@@ -31,7 +31,7 @@ class _BasketScreenState extends State<BasketScreen> {
           title: 'Basket',
           actionButton: IconButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/cart');
+                Navigator.pushNamed(context, '/edit-basket');
               },
               icon: const Icon(Icons.edit)),
         ),

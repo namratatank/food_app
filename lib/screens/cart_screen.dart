@@ -33,7 +33,6 @@ class CartScreen extends StatelessWidget {
                 'textjghjnghfjhjhhjhj',
                // style: baseStyle,
               ),
-
               // underline
               Container(
                 height: 4,
